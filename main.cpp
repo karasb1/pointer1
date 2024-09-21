@@ -14,4 +14,6 @@ int main()
 	{
 		cout << *b;
 	}
+	delete a;
+	delete b;
 }
